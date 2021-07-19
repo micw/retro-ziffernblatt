@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "serve": "browser-sync start --server \".\" --files \".\" --listen 0.0.0.0 --no-open"
+  },
+  "dependencies": {
+    "snapsvg": "^0.5.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.4"
+  }
+}
